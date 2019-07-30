@@ -25,5 +25,5 @@ sudo ./hdmi_1024x768_cfg.sh
 ```bash 
 sudo nano /boot/config.txt
 ```
-- Comment the two line
+- Comment the two lines:
 ![config](data/image_1.png)
