@@ -20,3 +20,10 @@ sudo chmod +x hdmi_1024x768_cfg.sh
 ```bash
 sudo ./hdmi_1024x768_cfg.sh
 ```
+
+## For Pi4B
+```bash 
+sudo nano /boot/config.txt
+```
+- Comment the two line
+![config](data/image_1.png)
